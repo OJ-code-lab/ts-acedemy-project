@@ -402,12 +402,10 @@ h3{
         flex-direction: column;
     }
     .about_us a{
-    word-wrap: break-word;
+        word-wrap: break-word;
     }
     button[type=submit]{
-    height: 5rem;
-    width: 33.7rem;
-    margin: 0 auto;
+       width: 100%;
     }
     
 }
