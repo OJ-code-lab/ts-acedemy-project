@@ -159,7 +159,7 @@ p{
 .images{
     margin: 1.7rem 0;
     display: grid;
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(2, auto);
     gap: 15px;
     text-align: center;
     
