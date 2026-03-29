@@ -404,4 +404,7 @@ h3{
     .about_us a{
     word-wrap: break-word;
     }
+    button[type=submit]{
+        margin: 0 auto;
+    }
 }
