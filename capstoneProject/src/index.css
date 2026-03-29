@@ -405,6 +405,9 @@ h3{
     word-wrap: break-word;
     }
     button[type=submit]{
-        margin: 0 auto;
+    height: 5rem;
+    width: 33.7rem;
+    margin: 0 auto;
     }
+    
 }
