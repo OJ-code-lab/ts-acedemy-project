@@ -1,16 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌌 Planetary Explorer
 
-Currently, two official plugins are available:
+## Overview
+Planetary Explorer is a React-based project from TS Academy to demonstrate my understanding of front-end web development concepts learned over the past four months.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application showcases the solar system by displaying the nine planets along with key information about each one.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+*  Displays all nine planets in the solar system
+*  Shows the distance of each planet from the sun
+*  Includes visual image representation of each planet
+*  Responsive and user-friendly interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* React (Functional Components & Props)
+
+---
+
+## 📚 What I Learned
+
+* Component-based architecture in React
+* Passing and using props
+* Building responsive layouts
+
+---
+
+## 🙌 Acknowledgement
+This project was built as part of my training at TS Academy.  
+Special thanks to TS Academy for the guidance and learning experience.
+
